@@ -60,7 +60,7 @@ During the execution phase, individual images are read through the webcam and pa
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/mz-hassan/gesture-based-media-control.git
+   git clone https://github.com/rachkoshy/gesture-based-media-control.git
 
 2. **Install required packages from the requirements.txt file**
    ```bash
